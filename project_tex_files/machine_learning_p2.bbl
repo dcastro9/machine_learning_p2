@@ -1,0 +1,41 @@
+\begin{thebibliography}{\protect\citename{De~Bonet et~al\mbox{.} }1997}
+
+\bibitem[\protect\citename{Baluja and Davies }1997]{baluja1997using}
+{\sc Baluja, S., and Davies, S.}
+\newblock 1997.
+\newblock Using optimal dependency-trees for combinatorial optimization:
+  Learning the structure of the search space.
+\newblock Tech. rep., DTIC Document.
+
+\bibitem[\protect\citename{Castro }2013]{Castro:2013}
+{\sc Castro, D.}, 2013.
+\newblock Supervised learning analysis and report.
+
+\bibitem[\protect\citename{De~Bonet et~al\mbox{.} }1997]{de1997mimic}
+{\sc De~Bonet, J.~S., Isbell, C.~L., Viola, P., et~al.}
+\newblock 1997.
+\newblock Mimic: Finding optima by estimating probability densities.
+\newblock {\em Advances in neural information processing systems\/}, 424--430.
+
+\bibitem[\protect\citename{Frank and Asuncion }2010]{Frank+Asuncion:2010}
+{\sc Frank, A., and Asuncion, A.}, 2010.
+\newblock {UCI} machine learning repository.
+
+\bibitem[\protect\citename{Fraser }1957]{fraser1957simulation}
+{\sc Fraser, A.~S.}
+\newblock 1957.
+\newblock Simulation of genetic systems by automatic digital computers.
+\newblock {\em Australian Journal of Biological Sciences 13}, 2, 150--162.
+
+\bibitem[\protect\citename{Hall et~al\mbox{.} }2010]{Hall_weka:2010}
+{\sc Hall, M., Frank, E., Holmes, G., Pfahringer, B., Reutemann, P., and
+  Witten, I.~H.}, 2010.
+\newblock The weka data mining software: An update.
+
+\bibitem[\protect\citename{Kirkpatrick }1984]{kirkpatrick1984optimization}
+{\sc Kirkpatrick, S.}
+\newblock 1984.
+\newblock Optimization by simulated annealing: Quantitative studies.
+\newblock {\em Journal of statistical physics 34}, 5, 975--986.
+
+\end{thebibliography}

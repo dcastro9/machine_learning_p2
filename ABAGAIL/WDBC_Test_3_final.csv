@@ -1,0 +1,40 @@
+Method,Correctly Classified, Incorrectly Classified, Training Time, Testing Time
+RHC,463.0,106.0,4.204,0.003
+SA,462.0,107.0,3.480,0.003
+GA,472.0,97.0,86.276,0.003
+Method,Correctly Classified, Incorrectly Classified, Training Time, Testing Time
+RHC,453.0,116.0,4.297,0.003
+SA,482.0,87.0,3.406,0.003
+GA,492.0,77.0,82.611,0.012
+Method,Correctly Classified, Incorrectly Classified, Training Time, Testing Time
+RHC,357.0,212.0,4.417,0.003
+SA,508.0,61.0,3.400,0.003
+GA,495.0,74.0,82.017,0.003
+Method,Correctly Classified, Incorrectly Classified, Training Time, Testing Time
+RHC,504.0,65.0,4.423,0.005
+SA,357.0,212.0,3.493,0.003
+GA,502.0,67.0,86.650,0.003
+Method,Correctly Classified, Incorrectly Classified, Training Time, Testing Time
+RHC,478.0,91.0,4.336,0.003
+SA,509.0,60.0,3.533,0.003
+GA,498.0,71.0,85.203,0.003
+Method,Correctly Classified, Incorrectly Classified, Training Time, Testing Time
+RHC,501.0,68.0,4.327,0.003
+SA,357.0,212.0,3.280,0.003
+GA,507.0,62.0,86.146,0.003
+Method,Correctly Classified, Incorrectly Classified, Training Time, Testing Time
+RHC,502.0,67.0,4.284,0.003
+SA,452.0,117.0,3.339,0.003
+GA,508.0,61.0,84.142,0.004
+Method,Correctly Classified, Incorrectly Classified, Training Time, Testing Time
+RHC,505.0,64.0,4.431,0.003
+SA,506.0,63.0,3.580,0.003
+GA,505.0,64.0,85.343,0.003
+Method,Correctly Classified, Incorrectly Classified, Training Time, Testing Time
+RHC,482.0,87.0,4.296,0.003
+SA,357.0,212.0,3.282,0.003
+GA,503.0,66.0,86.302,0.003
+Method,Correctly Classified, Incorrectly Classified, Training Time, Testing Time
+RHC,512.0,57.0,4.308,0.003
+SA,360.0,209.0,3.447,0.003
+GA,402.0,167.0,83.766,0.004
